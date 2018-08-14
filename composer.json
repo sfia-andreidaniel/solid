@@ -1,0 +1,9 @@
+{
+    "require": {
+        "php-di/php-di": "^5.4",
+        "phpunit/phpunit": "^4.8"
+    },
+    "autoload": {
+        "psr-4": {"Solid\\": "src/"}
+    }
+}
